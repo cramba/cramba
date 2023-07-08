@@ -1,4 +1,4 @@
-#💻 Marc Bachmann
+# 💻 Marc Bachmann
 
 **'Medieninformatik, Bachelor of Science'**
 
