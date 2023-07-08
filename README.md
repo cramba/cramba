@@ -1,3 +1,7 @@
+#💻 Marc Bachmann
+
+**'Medieninformatik, Bachelor of Science'**
+
 ### Hi there 👋
 
 <!--
