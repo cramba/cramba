@@ -1,6 +1,6 @@
 # 💻 Marc Bachmann
 
-** `Medieninformatik, Bachelor of Scienc`'**
+** `Medieninformatik, Bachelor of Scienc` **
 
 ### Hi there 👋
 
